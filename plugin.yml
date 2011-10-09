@@ -1,1 +1,12 @@
-/home/mraof/Misc/Dropbox/ludelux/cityGenerator/src/plugin.yml
+name: PetCreeper
+main: ludelux.citygen.CityMain
+version: 0.32
+
+commands:
+    citygen:
+        description: Generate a city
+        usage: /citygen
+    citytp:
+        description: Teleport to city
+        usage: /citytp
+        
