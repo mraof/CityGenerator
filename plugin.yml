@@ -1,6 +1,6 @@
-name: PetCreeper
+name: CityGenerator
 main: ludelux.citygen.CityMain
-version: 0.32
+version: 0.1
 
 commands:
     citygen:
